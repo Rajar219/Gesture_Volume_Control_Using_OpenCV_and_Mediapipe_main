@@ -81,16 +81,6 @@ Author:
 
 RAJA R
 Email: leviraja670@hmail.com
-
-License
-
-This project is open-source and intended for educational use.
-
-If you want, I can also:
-
-Shorten this for a college mini-project
-
-
 Just tell me.
 
-DEVELOPER MODE
+DEV
